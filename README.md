@@ -46,9 +46,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=5000&pause=2000&color=AAAAAA&center=true&width=700&lines=minimal+•+functional+•+elegant" alt="footer" />
 
 </div>
-
-<!-- micro animations -->
-<style>
-  img:hover{transform:scale(1.03);transition:.3s cubic-bezier(.25,.8,.25,1)}
-  h3{letter-spacing:.5px}
-</style>
