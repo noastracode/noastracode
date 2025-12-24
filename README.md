@@ -38,6 +38,25 @@
 <!-- soft divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&width=700" />
 
+<!-- ==================  GIF‑STATS  ================== -->
+<table align="center">
+  <tr>
+    <td colspan="2" style="border-radius:20px;overflow:hidden;box-shadow:0 8px 32px #00000033;">
+      <!-- монохромная GIF‑ка с кодом -->
+      <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="coding" />
+    </td>
+  </tr>
+  <tr>
+    <!-- короткие цифры справа -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=noastracode&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff00&hide_title=true&count_private=true&include_all_commits=true" alt="stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noastracode&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff00&hide_title=true&langs_count=6" alt="langs" />
+    </td>
+  </tr>
+</table>
+<!-- ==================  /GIF‑STATS  ================== -->
 
 <!-- soft divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&width=700&section=footer" />
