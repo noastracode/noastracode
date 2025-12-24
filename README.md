@@ -38,17 +38,6 @@
 <!-- soft divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&width=700" />
 
-<!-- stats -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=noastracode&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff00&hide_title=true&count_private=true&include_all_commits=true" alt="stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noastracode&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff00&hide_title=true&langs_count=8" alt="langs" />
-    </td>
-  </tr>
-</table>
 
 <!-- soft divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&width=700&section=footer" />
