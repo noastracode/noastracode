@@ -15,7 +15,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=444&height=1&width=600&section=header" />
 </div>
 
-<!-- Анимированные иконки состава -->
+<!-- Контакты -->
 <div align="center">
   <table>
     <tr>
@@ -38,80 +38,81 @@
   </table>
 </div>
 
-<!-- Анимированный график технологий -->
+<!-- Разделитель -->
 <div align="center">
-  <h3>▌ stack()</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,electron,docker,postgres,mongodb,git&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=444&height=1&width=600&section=header" />
 </div>
 
-<!-- Анимированная статистика -->
+<!-- Секция "Обо мне / About me" -->
 <div align="center">
-  <h3>▌ stats()</h3>
+  <h2>▌ ОБО МНЕ • ABOUT ME</h2>
+  
+  <div style="max-width: 800px; text-align: justify; margin: 0 auto; padding: 20px;">
+    <!-- Русская версия -->
+    <div align="left">
+      <h3>🇷🇺 Русский</h3>
+      <p>
+        <strong>Разработчик полного цикла</strong>, специализируюсь на создании современных веб-приложений, 
+        десктопных программ и интеллектуальных ботов. Превращаю сложные задачи в элегантные технические решения.
+      </p>
+      <p>
+        Моя философия: <em>"Код должен быть не только функциональным, но и красивым"</em>. Уделяю внимание 
+        архитектуре, производительности и user experience. Постоянно изучаю новые технологии и подходы.
+      </p>
+    </div>
+
+    <!-- Английская версия -->
+    <div align="left">
+      <h3>🇬🇧 English</h3>
+      <p>
+        <strong>Full-stack developer</strong> specializing in modern web applications, 
+        desktop software, and intelligent bots. Transforming complex problems into elegant technical solutions.
+      </p>
+      <p>
+        My philosophy: <em>"Code should be not only functional but also beautiful"</em>. I pay attention to 
+        architecture, performance, and user experience. Constantly learning new technologies and approaches.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- Разделитель -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=444&height=1&width=600&section=header" />
+</div>
+
+<!-- Технологии -->
+<div align="center">
+  <h3>▌ ТЕХНОЛОГИИ • TECHNOLOGIES</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,electron,docker,postgres,mongodb,git,figma,vscode&theme=dark&perline=7" alt="Tech Stack" />
+</div>
+
+<!-- Разделитель -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=444&height=1&width=600&section=header" />
+</div>
+
+<!-- Статистика -->
+<div align="center">
+  <h3>▌ СТАТИСТИКА • STATISTICS</h3>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=noastracode&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_title=true&count_private=true&include_all_commits=true&custom_title=" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=noastracode&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noastracode&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&hide_title=true&langs_count=8" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noastracode&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&hide_title=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Анимированный график активности -->
+<!-- Разделитель -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noastracode&theme=github-dark&bg_color=00000000&hide_border=true&area=true&point=ffffff&line=ffffff&area_color=222222&custom_title=" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=444&height=1&width=600&section=header" />
 </div>
 
-<!-- Анимированные карусели проектов -->
-<div align="center">
-  <h3>▌ projects()</h3>
-  
-  <!-- Проект 1 -->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/▸_web_site-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&border=1px_solid_#333333" />
-    </summary>
-    <br>
-    <table>
-      <tr>
-        <td><strong>Modern E‑Commerce</strong></td>
-        <td>React • TypeScript • Node.js</td>
-      </tr>
-    </table>
-  </details>
-
-  <!-- Проект 2 -->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/▸_desktop_app-000000?style=for-the-badge&logo=electron&logoColor=white&labelColor=000000&border=1px_solid_#333333" />
-    </summary>
-    <br>
-    <table>
-      <tr>
-        <td><strong>Task Manager</strong></td>
-        <td>Electron • React • SQLite</td>
-      </tr>
-    </table>
-  </details>
-
-  <!-- Проект 3 -->
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/▸_telegram_bot-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&border=1px_solid_#333333" />
-    </summary>
-    <br>
-    <table>
-      <tr>
-        <td><strong>Shop Assistant</strong></td>
-        <td>Python • PostgreSQL • Redis</td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-<!-- Анимированный индикатор посетителей -->
+<!-- Индикатор посетителей -->
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=noastracode&color=666666&style=flat-square&label=views" />
@@ -130,12 +131,24 @@
     transition: transform 0.3s ease;
   }
   
-  details[open] summary ~ * {
-    animation: fadeIn 0.5s ease;
+  h3 {
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 20px;
   }
   
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
+  p {
+    color: #cccccc;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  strong {
+    color: #ffffff;
+  }
+  
+  em {
+    color: #aaaaaa;
+    font-style: italic;
   }
 </style>
