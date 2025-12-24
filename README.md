@@ -27,8 +27,7 @@
 <div align="center" style="background:#ffffff0d;border-radius:24px;max-width:720px;margin:40px auto;padding:32px;box-shadow:0 8px 32px #00000033;">
   <h3 style="color:#ffffff;margin:0 0 16px;font-size:24px;font-weight:700;">about / обо мне</h3>
   <p style="color:#cccccc;line-height:1.7;margin:0;">
-    Full-stack developer who turns complex problems into elegant solutions.<br/>
-    I care about architecture, performance and pixel-perfect user experience.
+    I am a beginner developer who has just started learning this difficult field. My portfolio will include my work and so on.
   </p>
 </div>
 
